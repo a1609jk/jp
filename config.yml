@@ -38,6 +38,20 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: ニトリ
+          description: nitori一站式家居电商实体
+          url: https://www.nitori-net.jp/ec/
+        - name: MUJI
+          description: 无印一站式家居电商实体
+          url: https://www.muji.com/jp/ja/store
+        - name: イオン　ネット
+          description: イオン生活用品网贩平台
+          url: https://aeonretail.com/
+        - name: 株式会社ロマンス小杉
+          description: 株式会社ロマンス小杉公式店铺
+          url: https://shop.atelierofsleep.com  
+    - name: 拓展推荐
+      sites:
         - name: 日亚新品榜
           description: 日亚新品上架排行榜
           url: https://www.amazon.co.jp/gp/new-releases/
@@ -46,25 +60,29 @@ content:
           url: https://www.amazon.co.jp/gp/bestsellers
         - name: 日亚飙升榜
           description: 日亚排名飙升排行
+          url: https://www.amazon.co.jp/gp/movers-and-shakers/
         - name: 日本乐天
-          description: 日本三大电商平台之一
+          description: 日本三大电商平台之一,公司网络间歇性打不开
           url: https://www.rakuten.co.jp/category/bedding/?l2-id=shop_header_bedding
         - name: 日本雅虎
           description: 日本三大电商平台之一
           url: https://shopping.yahoo.co.jp/
-        - name: ニトリ
-          description: nitori一站式家居电商实体
-          url: https://www.nitori-net.jp/ec/
-        - name: MUJI
-          description: 无印一站式家居电商实体
-          url: https://www.muji.com/jp/ja/store
         - name: BicCamera
           description: 日本综合性实体电商的寝具类目
           url: https://www.biccamera.com/bc/category/001/190/
         - name: ヨドバシ
           description: 日本综合性实体电商的寝具类目
           url: https://www.yodobashi.com/category/162842/163358/
-    - name: 拓展工具
+        - name: Joshinweb
+          description: 日本综合性较强的电商寝具类目
+          url: https://joshinweb.jp/interior/4588.html
+        - name: BestOne
+          description: 日本版什么值得买
+          url: https://my-best.com
+        - name: Makuake
+          description: 日本众筹平台趋势分享
+          url: https://www.makuake.com     
+    - name: 拓展工具推荐
       sites:
         - name: 日本亚马逊站热搜词
           description: 日本站前25w搜索词，一周更新一次
@@ -72,19 +90,22 @@ content:
         - name: 谷歌趋势
           description: 查看关键词在日本谷歌的搜索次数及变化趋势
           url: https://trends.google.com/trends/?geo=JP
-        - name: 株式会社ロマンス小杉
-          description: 株式会社ロマンス小杉公式店铺
-          url: https://shop.atelierofsleep.com
-        - name: 
-          description: 
-          url: 
-    - name: 常用工具
+        - name: 日本纺织纤维企业名目
+          description: 日经新闻汇总企业一览
+          url: https://www.nikkei.com/nkd/industry/complist/?n_m_code=021
+        - name: 日本企业纺织协会
+          description: 可查看会员会社
+          url: http://www.jsa-jp.org/
+        - name: 繊維製品業界 売上高ランキング
+          description: 非官方
+          url: https://www.buffett-code.com/industries/5
+    - name: 常用工具推荐
       sites:
         - name: 日元实时汇率
-          description: 日元汇率变化
+          description: 日元汇率及趋势
           url: https://www.amz123.com/tools-hlhs/jpy/cny
         - name: 美元实时汇率
-          description: 美元实时汇率变化
+          description: 美元汇率实时变化
           url: https://gushitong.baidu.com/foreign/global-USDCNY
         - name: 海关编码查询
           description: 日本海关关税税率查询
@@ -92,24 +113,12 @@ content:
         - name: 日本商标专利查询
           description: 日本商标专利简易搜索
           url: https://www.j-platpat.inpit.go.jp/s0100 
-        - name: BestOne
-          description: 日本版什么值得买
-          url: https://my-best.com
         - name: 日本假日日历
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: Makuake
-          description: 日本众筹平台趋势分享
-          url: https://www.makuake.com
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+          description: 可查各国假期日历
+          url: https://www.timeanddate.com/calendar/?year=2021&country=26
+        - name: 出口退税率查询
+          description: 出口退税率查询
+          url: https://hd.chinatax.gov.cn/nszx/InitChukou.html
     - name: 新闻平台
       sites:
         - name: 日本经济新闻
@@ -130,27 +139,7 @@ content:
         - name: 通贩通信
           description: ec，通贩类新闻
           url: https://ecnomikata.com
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
-        - name: 
-          description: 
-          url: 
+
+
+
+

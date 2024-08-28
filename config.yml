@@ -47,9 +47,18 @@ content:
         - name: イオン　ネット
           description: イオン生活用品网贩平台
           url: https://aeonretail.com/
+        - name: しまむら
+          description: 島村公式店铺
+          url: https://www.shop-shimamura.com/?b=shimamura        
         - name: 株式会社ロマンス小杉
           description: 株式会社ロマンス小杉公式店铺
-          url: https://shop.atelierofsleep.com  
+          url: https://shop.atelierofsleep.com
+        - name: ドン・キホーテ
+          description: ドン・キホーテ商品紹介
+          url: https://www.donki.com/j-kakaku/product/list.php?cid=27
+        - name: 島忠
+          description: 家居专门店
+          url: https://netshop.shimachu.co.jp/shop/   
     - name: 拓展推荐
       sites:
         - name: 日亚新品榜
@@ -81,7 +90,10 @@ content:
           url: https://my-best.com
         - name: Makuake
           description: 日本众筹平台趋势分享
-          url: https://www.makuake.com     
+          url: https://www.makuake.com  
+        - name: イトーヨーカドー
+          description: 电商实体
+          url: hhttps://iyec.itoyokado.co.jp    
     - name: 拓展工具推荐
       sites:
         - name: 日本亚马逊站热搜词

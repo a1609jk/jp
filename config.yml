@@ -62,8 +62,8 @@ content:
           description: 日亚排名飙升排行
           url: https://www.amazon.co.jp/gp/movers-and-shakers/
         - name: 日本乐天
-          description: 日本三大电商平台之一,公司网络间歇性打不开
-          url: https://www.rakuten.co.jp/category/bedding/?l2-id=shop_header_bedding
+          description: 日本三大电商平台之一,请直接打开，直接搜索，主页现ip无法访问
+          url: https://search.rakuten.co.jp/search/mall/%E5%AF%9D%E5%85%B7/
         - name: 日本雅虎
           description: 日本三大电商平台之一
           url: https://shopping.yahoo.co.jp/

@@ -93,7 +93,10 @@ content:
           url: https://www.makuake.com  
         - name: イトーヨーカドー
           description: 电商实体
-          url: hhttps://iyec.itoyokado.co.jp    
+          url: hhttps://iyec.itoyokado.co.jp   
+        - name: ジャパネット
+          description: 电商平台
+          url: https://www.japanet.co.jp/shopping/
     - name: 拓展工具推荐
       sites:
         - name: 日本亚马逊站热搜词

@@ -14,7 +14,7 @@ url: https://a1609jk.github.io/jp/
 github: "https://github.com/a1609jk"
 
 # footer message
-footer: © 2021-2021 @a1609jk
+footer: © 2024-2024 @HM
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -31,19 +31,12 @@ webstack:
     engines:
       - google
       - baidu
-      - yahoo
       - bing
 
 content:
   categories:
-    - name: 常用推荐
+    - name: 合作商网站
       sites:
-        - name: ニトリ
-          description: nitori一站式家居电商实体
-          url: https://www.nitori-net.jp/ec/
-        - name: MUJI
-          description: 无印一站式家居电商实体
-          url: https://www.muji.com/jp/ja/store
         - name: イオン　ネット
           description: イオン生活用品网贩平台
           url: https://aeonretail.com/
@@ -58,18 +51,15 @@ content:
           url: https://www.donki.com/j-kakaku/product/list.php?cid=27
         - name: 島忠
           description: 家居专门店
-          url: https://netshop.shimachu.co.jp/shop/   
-    - name: 拓展推荐
+          url: https://netshop.shimachu.co.jp/shop/
+        - name: イケヒコ
+          description: イケヒコ公式店铺
+          url: https://www.ikehikoshop.jp
+    - name: 综合电商
       sites:
-        - name: 日亚新品榜
-          description: 日亚新品上架排行榜
-          url: https://www.amazon.co.jp/gp/new-releases/
-        - name: 日亚销售榜
-          description: 日亚销售排行榜
-          url: https://www.amazon.co.jp/gp/bestsellers
-        - name: 日亚飙升榜
-          description: 日亚排名飙升排行
-          url: https://www.amazon.co.jp/gp/movers-and-shakers/
+        - name: 日本亚马逊
+          description: 全球电商平台，可切换国家
+          url: https://www.amazon.co.jp/
         - name: 日本乐天
           description: 日本三大电商平台之一,请直接打开，直接搜索，主页现ip无法访问
           url: https://search.rakuten.co.jp/search/mall/%E5%AF%9D%E5%85%B7/
@@ -85,23 +75,38 @@ content:
         - name: Joshinweb
           description: 日本综合性较强的电商寝具类目
           url: https://joshinweb.jp/interior/4588.html
-        - name: BestOne
-          description: 日本版什么值得买
-          url: https://my-best.com
-        - name: Makuake
-          description: 日本众筹平台趋势分享
-          url: https://www.makuake.com  
         - name: イトーヨーカドー
           description: 电商实体
           url: hhttps://iyec.itoyokado.co.jp   
         - name: ジャパネット
           description: 电商平台
           url: https://www.japanet.co.jp/shopping/
-    - name: 拓展工具推荐
+        - name: ニトリ
+          description: nitori一站式家居电商实体
+          url: https://www.nitori-net.jp/ec/
+        - name: MUJI
+          description: 无印一站式家居电商实体
+          url: https://www.muji.com/jp/ja/store  
+        - name: Makuake
+          description: 日本众筹平台趋势分享
+          url: https://www.makuake.com  
+        - name: BestOne
+          description: 日本版什么值得买
+          url: https://my-best.com          
+    - name: 拓展推荐
       sites:
         - name: 日本亚马逊站热搜词
           description: 日本站前25w搜索词，一周更新一次
           url: https://www.amz123.com/jptopkeywords
+        - name: 日亚新品榜
+          description: 日亚新品上架排行榜
+          url: https://www.amazon.co.jp/gp/new-releases/
+        - name: 日亚销售榜
+          description: 日亚销售排行榜
+          url: https://www.amazon.co.jp/gp/bestsellers
+        - name: 日亚飙升榜
+          description: 日亚排名飙升排行
+          url: https://www.amazon.co.jp/gp/movers-and-shakers/          
         - name: 谷歌趋势
           description: 查看关键词在日本谷歌的搜索次数及变化趋势
           url: https://trends.google.com/trends/?geo=JP

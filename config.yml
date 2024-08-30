@@ -159,6 +159,9 @@ content:
         - name: 纺织快讯
           description: 全球纺织网，纺织快讯，有面料行情
           url: https://www.tnc.com.cn/info/c001.html
+        - name: 中国纺织经济信息网
+          description: 纺织业行情，纺织快讯，有面料行情
+          url: http://www.ctei.cn
 
 
 

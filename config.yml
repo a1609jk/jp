@@ -86,7 +86,13 @@ content:
           url: https://www.nitori-net.jp/ec/
         - name: MUJI
           description: 无印一站式家居电商实体
-          url: https://www.muji.com/jp/ja/store  
+          url: https://www.muji.com/jp/ja/store
+        - name: IRIS
+          description: アイリスオーヤマ公式サイト
+          url: https://www.irisplaza.co.jp
+         - name: ショップジャパン
+          description: ショップジャパン
+          url: https://www.shopjapan.co.jp            
         - name: Makuake
           description: 日本众筹平台趋势分享
           url: https://www.makuake.com  

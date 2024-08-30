@@ -61,7 +61,7 @@ content:
           description: 全球电商平台，可切换国家
           url: https://www.amazon.co.jp/
         - name: 日本乐天
-          description: 日本三大电商平台之一,请直接打开，直接搜索，主页现ip无法访问
+          description: 请直接打开，直接搜索，主页现ip无法访问
           url: https://search.rakuten.co.jp/search/mall/%E5%AF%9D%E5%85%B7/
         - name: 日本雅虎
           description: 日本三大电商平台之一
@@ -147,9 +147,6 @@ content:
         - name: 朝日新闻
           description: 日本网络最大的新闻网站
           url: https://www.asahi.com/
-        - name: 读卖新闻
-          description: 日本全国性报纸
-          url: https://www.yomiuri.co.jp/
         - name: 每日新闻
           description: 日本新鲜新闻
           url: https://mainichi.jp/
@@ -159,7 +156,9 @@ content:
         - name: 通贩通信
           description: ec，通贩类新闻
           url: https://ecnomikata.com
-
+        - name: 纺织快讯
+          description: 全球纺织网，纺织快讯，有面料行情
+          url: https://www.tnc.com.cn/info/c001.html
 
 
 

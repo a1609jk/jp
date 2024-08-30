@@ -116,6 +116,9 @@ content:
         - name: 谷歌趋势
           description: 查看关键词在日本谷歌的搜索次数及变化趋势
           url: https://trends.google.com/trends/?geo=JP
+        - name: 価格
+          description: 参考左侧寝具类目关键词排行
+          url: https://kakaku.com/interior/
         - name: 日本纺织纤维企业名目
           description: 日经新闻汇总企业一览
           url: https://www.nikkei.com/nkd/industry/complist/?n_m_code=021

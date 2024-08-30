@@ -92,7 +92,10 @@ content:
           url: https://www.irisplaza.co.jp
          - name: ショップジャパン
           description: ショップジャパン
-          url: https://www.shopjapan.co.jp            
+          url: https://www.shopjapan.co.jp  
+         - name: dinos
+          description: dinos的寝具类目
+          url: https://www.dinos.co.jp/c2/002008/
         - name: Makuake
           description: 日本众筹平台趋势分享
           url: https://www.makuake.com  

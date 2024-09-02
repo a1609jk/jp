@@ -43,9 +43,6 @@ content:
         - name: しまむら
           description: 島村公式店铺
           url: https://www.shop-shimamura.com/?b=shimamura        
-        - name: 株式会社ロマンス小杉
-          description: 株式会社ロマンス小杉公式店铺
-          url: https://shop.atelierofsleep.com
         - name: ドン・キホーテ
           description: ドン・キホーテ商品紹介
           url: https://www.donki.com/j-kakaku/product/list.php?cid=27
@@ -55,6 +52,9 @@ content:
         - name: イケヒコ
           description: イケヒコ公式店铺
           url: https://www.ikehikoshop.jp
+        - name: 株式会社ロマンス小杉
+          description: 株式会社ロマンス小杉公式店铺
+          url: https://shop.atelierofsleep.com
     - name: 综合电商
       sites:
         - name: 日本亚马逊
@@ -90,10 +90,10 @@ content:
         - name: IRIS
           description: アイリスオーヤマ公式サイト
           url: https://www.irisplaza.co.jp
-         - name: ショップジャパン
+        - name: ショップジャパン
           description: ショップジャパン
           url: https://www.shopjapan.co.jp  
-         - name: dinos
+        - name: dinos
           description: dinos的寝具类目
           url: https://www.dinos.co.jp/c2/002008/
         - name: Makuake

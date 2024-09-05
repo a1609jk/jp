@@ -61,7 +61,7 @@ content:
         - name: 布団と寝具専門店 colors
           description: 店铺主页打不开，请从商品页面看
           url: https://item.rakuten.co.jp/futon-colors/c/         
-        - name:タンスのゲン楽天店
+        - name: タンスのゲン楽天店
           description: 可进主页
           url: https://www.rakuten.ne.jp/gold/tansu/  
         - name: LOWYA（ロウヤ）楽天店

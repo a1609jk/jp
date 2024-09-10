@@ -163,6 +163,9 @@ content:
         - name: 出口退税率查询
           description: 出口退税率查询
           url: https://hd.chinatax.gov.cn/nszx/InitChukou.html
+        - name: 海运航线查询
+          description: 海运日时查询
+          url: http://www.shippingaccess.com/schedule/
     - name: 新闻平台
       sites:
         - name: 日本经济新闻

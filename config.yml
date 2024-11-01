@@ -66,7 +66,10 @@ content:
           url: https://www.rakuten.ne.jp/gold/tansu/  
         - name: LOWYA（ロウヤ）楽天店
           description: 可进主页
-          url: https://www.rakuten.ne.jp/gold/low-ya/      
+          url: https://www.rakuten.ne.jp/gold/low-ya/   
+        - name: TJB项目管理系统
+          description: 可手机端访问，登录时不选限制IP
+          url: http://jp.lemonllc.jp/ 
     - name: 综合电商
       sites:
         - name: 日本亚马逊
